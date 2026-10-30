@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-CognitiveSynapse",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Cognitive Synapse - ACT-R spreading activation memory and semantic association graph with automated memory consolidation.",
+  "tools": [
+    "compute_actr_activation",
+    "cluster_associative_semantic_graph",
+    "prune_faded_memories"
+  ]
+}
